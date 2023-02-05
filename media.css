@@ -10,7 +10,7 @@
                             font-size: 15px;
                         }
                     }
-                    
+                    @
                     @media(max-width: 1024px) {
                         .header__nav {
                             display: none;
